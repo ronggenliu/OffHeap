@@ -116,7 +116,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>HelloHeapServiceImpl</mainClass>
+              <mainClass>TrippleDes</mainClass>
             </manifest>
           </archive>
         </configuration>
